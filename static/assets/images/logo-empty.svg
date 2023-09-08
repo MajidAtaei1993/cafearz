@@ -1,0 +1,517 @@
+<svg height="60" viewBox="0 0 151.02 123.23" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(-9.41, 12.01, -12.92, -8.12, 560.5, 4799)" gradientUnits="userSpaceOnUse" id="9b0b5451-b33c-436c-992c-7910e2b636b7" x1="-245.08" x2="-243.52" y1="219.05" y2="219.05">
+<stop offset="0" stop-color="gray"></stop>
+<stop offset="0.46" stop-color="gray"></stop>
+<stop offset="0.57" stop-color="#838383"></stop>
+<stop offset="0.66" stop-color="#8e8e8e"></stop>
+<stop offset="0.75" stop-color="#a0a0a0"></stop>
+<stop offset="0.84" stop-color="#b9b9b9"></stop>
+<stop offset="0.92" stop-color="#d9d9d9"></stop>
+<stop offset="1" stop-color="#fff"></stop>
+</linearGradient>
+<linearGradient gradientTransform="matrix(-9.41, 12.01, -12.92, -8.12, 575.37, 4807.59)" id="3cb678eb-2e9c-4039-a25e-2dc05d6600bb" x1="-245.1" x2="-243.54" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="218.42" y2="218.42"></linearGradient>
+<linearGradient gradientTransform="matrix(15.43, 3.24, -1.63, 15.68, 3976.82, -2622.78)" id="1fd67240-4edb-4bc4-99f0-1d9865258c94" x1="-230.54" x2="-228.98" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="220.52" y2="220.52"></linearGradient>
+<linearGradient gradientTransform="matrix(8.86, -12.1, 12.95, 7.57, -873.07, -4458.29)" id="21513912-5f89-40b4-a48d-1ee39cb83c9c" x1="-233.23" x2="-231.67" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="230.05" y2="230.05"></linearGradient>
+<linearGradient gradientTransform="matrix(8.86, -12.1, 12.94, 7.57, -887.91, -4483.85)" id="563db1dd-9832-42df-845e-8be590716480" x1="-232.67" x2="-231.11" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="229.02" y2="229.02"></linearGradient>
+<linearGradient gradientTransform="matrix(8.86, -12.1, 12.94, 7.57, -873.04, -4475.26)" id="21290d47-6e82-48c3-b5a8-9f037595cf44" x1="-232.67" x2="-231.11" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="229.66" y2="229.66"></linearGradient>
+<linearGradient gradientTransform="matrix(14.99, 1.82, -0.27, 15.1, 3551.25, -2838.84)" gradientUnits="userSpaceOnUse" id="8895b9d9-b45d-4b4f-8b0f-59527788668b" x1="-230.53" x2="-228.97" y1="220.82" y2="220.82">
+<stop offset="0" stop-color="gray"></stop>
+<stop offset="0.46" stop-color="gray"></stop>
+<stop offset="0.57" stop-color="#838383"></stop>
+<stop offset="0.66" stop-color="#8e8e8e"></stop>
+<stop offset="0.75" stop-color="#a0a0a0"></stop>
+<stop offset="0.84" stop-color="#b9b9b9"></stop>
+<stop offset="0.92" stop-color="#d9d9d9"></stop>
+<stop offset="1" stop-color="#fff"></stop>
+</linearGradient>
+<linearGradient gradientTransform="matrix(6.28, 13.66, -12.94, 7.66, 4297.69, 1647.83)" id="86142f86-6cbc-4337-b00a-a82000c472bf" x1="-237.04" x2="-235.48" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="215.6" y2="215.6"></linearGradient>
+<linearGradient gradientTransform="matrix(15.32, 2.81, -1.22, 15.53, 3829.22, -2708.39)" id="7c4186c8-0438-4da3-bcba-f927c7f10f74" x1="-231.5" x2="-229.94" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="220.26" y2="220.26"></linearGradient>
+<linearGradient gradientTransform="matrix(6.15, 13.65, -12.94, 7.53, 4296.03, 1690.95)" id="508578ce-ffb0-4629-b658-cac763b37868" x1="-235.97" x2="-234.41" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="214.79" y2="214.79"></linearGradient>
+<linearGradient gradientTransform="matrix(6.18, 13.66, -12.95, 7.56, 4303.7, 1668.91)" id="f7c35f82-b4e9-41ff-b7ed-052e3e62763b" x1="-236.52" x2="-234.96" xlink:href="#9b0b5451-b33c-436c-992c-7910e2b636b7" y1="214.54" y2="214.54"></linearGradient>
+<clipPath id="f30d8832-87a4-41ea-a14b-187e17316d04" transform="translate(15.03 -3.86)">
+<polygon points="12.49 31.45 62.19 60.08 108.48 31.68 60.28 3.86 12.49 31.45" style="fill: none"></polygon>
+</clipPath>
+<linearGradient gradientTransform="matrix(38.74, -47.67, -47.67, -38.74, 19858.03, -2615.44)" gradientUnits="userSpaceOnUse" id="362a0179-a004-4a3b-908e-08e968634bf7" x1="-237.02" x2="-235.45" y1="222.81" y2="222.81">
+<stop offset="0" stop-color="#b7742a"></stop>
+<stop offset="0.21" stop-color="#e17a16"></stop>
+<stop offset="0.39" stop-color="#de9222"></stop>
+<stop offset="0.65" stop-color="#df9d0c"></stop>
+<stop offset="1" stop-color="#df9d0c"></stop>
+</linearGradient>
+<clipPath id="3de4bca8-27a5-48c4-9794-f8de96ac214d" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="13.66" y="76.14"></rect>
+</clipPath>
+<clipPath id="a05b912d-7f99-43d0-97c5-0da5de66be16" transform="translate(15.03 -3.86)">
+<polyline points="13.66 89.55 36.89 102.97 36.9 76.14" style="fill: none"></polyline>
+</clipPath>
+<mask height="46.4" id="016bca94-62fe-468b-98e7-fc5e8e18f892" maskUnits="userSpaceOnUse" width="51.4" x="14.6" y="62.49">
+<g transform="translate(15.03 -3.86)">
+<polygon points="21.32 66.35 -0.42 94.12 29.23 112.75 50.98 84.99 21.32 66.35" style="
+                            fill: url(#9b0b5451-b33c-436c-992c-7910e2b636b7);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(-9.41, 12.01, -12.92, -8.12, 575.53, 4795.14)" gradientUnits="userSpaceOnUse" id="72b2c083-ad94-4297-ad31-04b7990aa835" x1="-245.08" x2="-243.52" y1="219.05" y2="219.05">
+<stop offset="0" stop-color="#fff"></stop>
+<stop offset="0.46" stop-color="#fff"></stop>
+<stop offset="0.57" stop-color="#fcfcfc"></stop>
+<stop offset="0.66" stop-color="#f1f1f1"></stop>
+<stop offset="0.75" stop-color="#dfdfdf"></stop>
+<stop offset="0.83" stop-color="#c6c6c6"></stop>
+<stop offset="0.91" stop-color="#a6a5a5"></stop>
+<stop offset="0.99" stop-color="#7f7e7e"></stop>
+<stop offset="1" stop-color="#7c7b7b"></stop>
+</linearGradient>
+<clipPath id="9432e590-ddbd-448a-924d-633a3b3cee1b" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="36.89" y="89.55"></rect>
+</clipPath>
+<clipPath id="71336436-c32f-40f4-ae4a-70aa4aac6d02" transform="translate(15.03 -3.86)">
+<polyline points="36.89 102.97 60.13 116.38 60.13 89.55" style="fill: none"></polyline>
+</clipPath>
+<mask height="46.4" id="92515af4-48ef-44a1-b6e2-b3edcb8e1629" maskUnits="userSpaceOnUse" width="51.4" x="37.84" y="75.91">
+<g transform="translate(15.03 -3.86)">
+<polygon points="44.56 79.76 22.81 107.53 52.47 126.17 74.21 98.4 44.56 79.76" style="
+                            fill: url(#3cb678eb-2e9c-4039-a25e-2dc05d6600bb);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(-9.41, 12.01, -12.92, -8.12, 590.4, 4803.73)" id="9878ab41-d812-46fc-b7f8-6cb644b3c5fd" x1="-245.1" x2="-243.54" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="218.42" y2="218.42"></linearGradient>
+<clipPath id="3d8f53a3-fd36-4a82-a8a1-ee362141b730" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="36.89" y="76.13"></rect>
+</clipPath>
+<clipPath id="bfa4a43f-f2ae-48ff-915b-7489eeb4d49a" transform="translate(15.03 -3.86)">
+<polyline points="60.13 89.55 36.89 76.14 36.89 102.97" style="fill: none"></polyline>
+</clipPath>
+<mask height="45.85" id="524812d9-3504-4191-892c-5d61e7253b46" maskUnits="userSpaceOnUse" width="50.76" x="38.16" y="62.77">
+<g transform="translate(15.03 -3.86)">
+<polygon points="53.16 112.48 73.89 84.18 43.86 66.62 23.13 94.92 53.16 112.48" style="
+                            fill: url(#21513912-5f89-40b4-a48d-1ee39cb83c9c);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(8.86, -12.1, 12.95, 7.57, -858.05, -4462.15)" id="348de960-920e-41ca-981e-541f55d7ef21" x1="-233.23" x2="-231.67" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="230.05" y2="230.05"></linearGradient>
+<clipPath id="70e3d2ae-d14b-477f-a62c-4cacd3a3024b" transform="translate(15.03 -3.86)">
+<rect height="29.88" style="fill: none" width="23.77" x="84.71" y="34.81"></rect>
+</clipPath>
+<clipPath id="e0207633-2f11-4460-b0bc-b0fd3392dd23" transform="translate(15.03 -3.86)">
+<polyline points="108.48 34.81 84.71 49.35 108.48 64.69" style="fill: none"></polyline>
+</clipPath>
+<linearGradient gradientTransform="matrix(-6.58, -15.48, 14.72, -8.14, -4897.09, -1773.31)" id="de650e4a-0f26-42c0-b5b6-2d49528d8913" x1="-241.25" x2="-239.69" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="232.96" y2="232.96"></linearGradient>
+<clipPath id="94de31bf-f093-4284-a8b3-241ca255e7c7" transform="translate(15.03 -3.86)">
+<rect height="26.71" style="fill: none" width="23.24" x="13.66" y="35.89"></rect>
+</clipPath>
+<clipPath id="14043cb0-2b72-49b9-ac01-6a72468dc107" transform="translate(15.03 -3.86)">
+<polyline points="36.9 49.31 13.68 62.6 13.66 35.89" style="fill: none"></polyline>
+</clipPath>
+<linearGradient gradientTransform="matrix(8.86, 12.1, 12.95, -7.57, -872.89, 4664.61)" id="90d54a19-ea88-4787-a8e8-8a01501b82cb" x1="-237.64" x2="-236.08" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="232.42" y2="232.42"></linearGradient>
+<clipPath id="77d0c855-8c62-4e88-9077-ba0c65edc104" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="13.66" y="35.89"></rect>
+</clipPath>
+<clipPath id="93971225-0416-4b2a-9ba2-2555cf832d34" transform="translate(15.03 -3.86)">
+<polyline points="36.9 49.31 13.66 35.89 13.66 62.72" style="fill: none"></polyline>
+</clipPath>
+<mask height="45.85" id="1540e2b8-7941-4cee-a567-dfbeb834e267" maskUnits="userSpaceOnUse" width="50.76" x="14.92" y="22.52">
+<g transform="translate(15.03 -3.86)">
+<polygon points="29.93 72.23 50.66 43.94 20.63 26.38 -0.1 54.68 29.93 72.23" style="
+                            fill: url(#563db1dd-9832-42df-845e-8be590716480);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(8.86, -12.1, 12.94, 7.57, -872.88, -4487.7)" id="a8130815-f60d-42f7-9492-4722cc80cd01" x1="-232.67" x2="-231.11" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="229.02" y2="229.02"></linearGradient>
+<clipPath id="6aa77173-2816-4557-a6f0-d53c4d732601" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="36.9" y="49.31"></rect>
+</clipPath>
+<clipPath id="b655877f-c89d-49cb-a03c-1c2669771a30" transform="translate(15.03 -3.86)">
+<polyline points="60.13 62.72 36.9 49.31 36.9 76.14" style="fill: none"></polyline>
+</clipPath>
+<mask height="45.85" id="d86d0554-017e-4ed2-a05d-1e08663b7ed7" maskUnits="userSpaceOnUse" width="50.76" x="38.16" y="35.94">
+<g transform="translate(15.03 -3.86)">
+<polygon points="53.16 85.65 73.89 57.35 43.86 39.8 23.13 68.09 53.16 85.65" style="
+                            fill: url(#21290d47-6e82-48c3-b5a8-9f037595cf44);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(8.86, -12.1, 12.94, 7.57, -858.01, -4479.12)" id="86ad0f58-7977-48f2-9afe-1be62668b0ed" x1="-232.67" x2="-231.11" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="229.66" y2="229.66"></linearGradient>
+<clipPath id="60ea5dc5-0570-40bc-9d12-e5054fd4c97e" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="36.89" y="62.72"></rect>
+</clipPath>
+<clipPath id="9a79146b-fc39-4583-bbd7-c0ef94f80d47" transform="translate(15.03 -3.86)">
+<polyline points="60.13 89.55 60.13 62.72 36.89 76.14" style="fill: none"></polyline>
+</clipPath>
+<mask height="32.47" id="72990a52-880c-492a-b7ee-d37a03caaa1b" maskUnits="userSpaceOnUse" width="24.18" x="51.45" y="56.04">
+<g transform="translate(15.03 -3.86)">
+<polygon points="36.42 89.49 60.08 92.37 60.6 62.78 36.94 59.9 36.42 89.49" style="
+                            fill: url(#8895b9d9-b45d-4b4f-8b0f-59527788668b);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(14.99, 1.82, -0.27, 15.1, 3566.27, -2842.69)" gradientUnits="userSpaceOnUse" id="b4e1fdd8-c9b0-4402-980e-dc99312a849e" x1="-230.53" x2="-228.97" y1="220.82" y2="220.82">
+<stop offset="0" stop-color="#fff"></stop>
+<stop offset="0.46" stop-color="#fff"></stop>
+<stop offset="0.57" stop-color="#fcfcfc"></stop>
+<stop offset="0.66" stop-color="#f1f1f1"></stop>
+<stop offset="0.75" stop-color="#dfdfdf"></stop>
+<stop offset="0.83" stop-color="#c6c6c6"></stop>
+<stop offset="0.91" stop-color="#a6a5a5"></stop>
+<stop offset="0.99" stop-color="#7f7e7e"></stop>
+<stop offset="1" stop-color="#7c7b7b"></stop>
+</linearGradient>
+<clipPath id="5b92e200-0cd4-455a-a1ba-f938e8493ead" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="13.66" y="62.72"></rect>
+</clipPath>
+<clipPath id="20842820-fe3d-4d37-8566-fedff15fd855" transform="translate(15.03 -3.86)">
+ <polyline points="13.66 89.55 36.89 76.14 13.66 62.72" style="fill: none"></polyline>
+</clipPath>
+<mask height="48.45" id="d1256fe5-7d59-49fc-9c82-67a7ec79c934" maskUnits="userSpaceOnUse" width="42.63" x="18.98" y="48.06">
+<g transform="translate(15.03 -3.86)">
+<polygon points="3.96 68.46 18.63 100.36 46.59 83.81 31.92 51.91 3.96 68.46" style="
+                            fill: url(#86142f86-6cbc-4337-b00a-a82000c472bf);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(6.28, 13.66, -12.94, 7.66, 4312.72, 1643.97)" id="1dfee7ab-0826-41c4-b908-94ef19bb39f9" x1="-237.04" x2="-235.48" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="215.6" y2="215.6"></linearGradient>
+<clipPath id="5db659db-a88e-46b1-a19c-713b61e11d68" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="13.66" y="49.31"></rect>
+</clipPath>
+<clipPath id="f53a4673-bfcf-499f-8037-9556d256069a" transform="translate(15.03 -3.86)">
+<polyline points="36.89 76.14 36.89 49.31 13.66 62.72" style="fill: none"></polyline>
+</clipPath>
+<mask height="35.24" id="c21c3443-c041-432a-89aa-8392f845ce7e" maskUnits="userSpaceOnUse" width="27.39" x="26.61" y="41.24">
+<g transform="translate(15.03 -3.86)">
+<polygon points="11.58 75.75 36.56 80.34 38.97 49.69 13.99 45.1 11.58 75.75" style="
+                            fill: url(#7c4186c8-0438-4da3-bcba-f927c7f10f74);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(15.32, 2.81, -1.22, 15.53, 3844.24, -2712.25)" id="b1d24906-e615-44aa-8cb4-8b6b33b08d27" x1="-231.5" x2="-229.94" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="220.26" y2="220.26"></linearGradient>
+<clipPath id="b54f859a-08c6-4740-bf0e-e0c654b186d8" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.23" x="60.13" y="89.55"></rect>
+</clipPath>
+<clipPath id="a3ce73db-aa1a-4c9b-9285-cfa1f3fe6fbf" transform="translate(15.03 -3.86)">
+ <polyline points="60.13 116.38 83.36 102.96 60.13 89.55" style="fill: none"></polyline>
+</clipPath>
+<mask height="48.24" id="d92e1e77-e7e5-4fe3-9474-75ad07833afe" maskUnits="userSpaceOnUse" width="42.39" x="65.57" y="74.99">
+<g transform="translate(15.03 -3.86)">
+<polygon points="50.55 95.12 64.96 127.08 92.94 110.81 78.53 78.85 50.55 95.12" style="
+                            fill: url(#508578ce-ffb0-4629-b658-cac763b37868);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(6.15, 13.65, -12.94, 7.53, 4311.06, 1687.1)" id="35952f31-40c3-4cca-b441-208ba190106c" x1="-235.97" x2="-234.41" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="214.79" y2="214.79"></linearGradient>
+<clipPath id="fd409aaa-f989-42eb-81d5-9c24916f4267" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="60.13" y="62.72"></rect>
+</clipPath>
+<clipPath id="d6a5ac5a-c16c-43a6-a389-7f834d4e7fcf" transform="translate(15.03 -3.86)">
+<polyline points="60.13 89.55 83.37 76.14 60.13 62.72" style="fill: none"></polyline>
+</clipPath>
+<mask height="48.29" id="d83c5273-92b2-4b92-a6ce-057c9d57e002" maskUnits="userSpaceOnUse" width="42.45" x="65.55" y="48.13">
+<g transform="translate(15.03 -3.86)">
+<polygon points="50.52 68.33 64.99 100.28 92.97 83.94 78.51 51.99 50.52 68.33" style="
+                            fill: url(#f7c35f82-b4e9-41ff-b7ed-052e3e62763b);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(6.18, 13.66, -12.95, 7.56, 4318.73, 1665.05)" id="1f9eebd2-bb6e-48f7-a101-9ca77689f134" x1="-236.52" x2="-234.96" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="214.54" y2="214.54"></linearGradient>
+<clipPath id="43847d02-0905-4d2e-be9d-5751d7f22818" transform="translate(15.03 -3.86)">
+<rect height="26.83" style="fill: none" width="23.24" x="83.37" y="76.13"></rect>
+</clipPath>
+<clipPath id="97875ba8-2ad4-455c-b65b-efdf518f424a" transform="translate(15.03 -3.86)">
+ <rect height="26.83" style="fill: none" width="23.24" x="60.13" y="76.13"></rect>
+</clipPath>
+<clipPath id="e1d7667a-5312-439c-adad-d0252f1fab15" transform="translate(15.03 -3.86)">
+<polyline points="83.37 102.97 83.37 76.14 60.13 89.55" style="fill: none"></polyline>
+</clipPath>
+<mask height="36.39" id="7db3826f-aa32-41fc-9455-9e7e6c555ef5" maskUnits="userSpaceOnUse" width="28.71" x="72.42" y="67.5">
+<g transform="translate(15.03 -3.86)">
+<polygon points="57.4 102.39 82.87 107.74 86.1 76.71 60.63 71.36 57.4 102.39" style="
+                            fill: url(#1fd67240-4edb-4bc4-99f0-1d9865258c94);
+                          "></polygon>
+</g>
+</mask>
+<linearGradient gradientTransform="matrix(15.43, 3.24, -1.63, 15.68, 3991.85, -2626.63)" id="d06703f8-0e6e-4bac-a58d-6ca91a70e219" x1="-230.54" x2="-228.98" xlink:href="#72b2c083-ad94-4297-ad31-04b7990aa835" y1="220.52" y2="220.52"></linearGradient>
+<linearGradient gradientTransform="matrix(1, 0, 0, -1, 15.03, 118.14)" gradientUnits="userSpaceOnUse" id="b55c1330-4f22-43db-831e-5c07147c800a" x1="48.03" x2="72.26" y1="69.26" y2="111.23">
+<stop offset="0.05" stop-color="#d98633"></stop>
+<stop offset="0.43" stop-color="#e9ab16"></stop>
+<stop offset="0.98" stop-color="#f0b90b"></stop>
+</linearGradient>
+</defs>
+<title>arm</title>
+<g style="isolation: isolate">
+<g data-name="Layer 1" id="ddb4a287-ed21-480e-a330-9a941df42f51">
+<g style="
+                          clip-path: url(#f30d8832-87a4-41ea-a14b-187e17316d04);
+                        ">
+<polyline points="151.02 22.36 85.33 103.2 0 33.86" style="
+                            fill: url(#362a0179-a004-4a3b-908e-08e968634bf7);
+                          "></polyline>
+</g>
+<polygon points="123.5 60.83 99.74 45.5 123.5 30.95 123.5 60.83" style="fill: #e27b14"></polygon>
+<polygon points="121.63 85.69 98.39 72.28 98.39 99.11 121.63 85.69" style="fill: #0e6275"></polygon>
+<polygon points="98.39 72.28 75.16 58.86 75.16 85.69 98.39 72.28" style="fill: #356184"></polygon>
+<polygon points="98.39 99.11 75.16 85.69 75.16 112.52 98.39 99.11" style="fill: #304d6f"></polygon>
+<polygon points="75.16 112.52 75.16 85.69 51.92 99.11 75.16 112.52" style="fill: #1e738c"></polygon>
+<polygon points="75.16 85.69 75.16 58.86 51.92 72.28 75.16 85.69" style="fill: #a8875c"></polygon>
+<polygon points="98.39 99.11 98.39 72.28 75.16 85.69 98.39 99.11" style="fill: #293b5b"></polygon>
+<polygon points="75.16 85.69 51.92 72.28 51.92 99.11 75.16 85.69" style="fill: #68837e"></polygon>
+<polygon points="51.92 72.28 28.68 58.86 28.68 85.69 51.92 72.28" style="fill: #de9222"></polygon>
+<polygon points="51.92 99.11 51.92 72.28 28.68 85.69 51.92 99.11" style="fill: #4a8086"></polygon>
+<polygon points="75.16 58.86 51.92 45.45 51.92 72.28 75.16 58.86" style="fill: #df9e0c"></polygon>
+<polygon points="51.92 72.28 51.92 45.45 28.68 58.87 51.92 72.28" style="fill: #d98732"></polygon>
+<polygon points="51.92 45.45 28.68 32.03 28.68 58.86 51.92 45.45" style="fill: #c28849"></polygon>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#3de4bca8-27a5-48c4-9794-f8de96ac214d);
+                          ">
+<g style="
+                              clip-path: url(#a05b912d-7f99-43d0-97c5-0da5de66be16);
+                            ">
+<g style="
+                                mask: url(#016bca94-62fe-468b-98e7-fc5e8e18f892);
+                              ">
+<polygon points="36.35 62.49 14.6 90.26 44.26 108.9 66 81.13 36.35 62.49" style="
+                                  fill: url(#72b2c083-ad94-4297-ad31-04b7990aa835);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#9432e590-ddbd-448a-924d-633a3b3cee1b);
+                          ">
+<g style="
+                              clip-path: url(#71336436-c32f-40f4-ae4a-70aa4aac6d02);
+                            ">
+<g style="
+                                mask: url(#92515af4-48ef-44a1-b6e2-b3edcb8e1629);
+                              ">
+<polygon points="59.58 75.91 37.84 103.67 67.49 122.31 89.24 94.54 59.58 75.91" style="
+                                  fill: url(#9878ab41-d812-46fc-b7f8-6cb644b3c5fd);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#3d8f53a3-fd36-4a82-a8a1-ee362141b730);
+                          ">
+<g style="
+                              clip-path: url(#bfa4a43f-f2ae-48ff-915b-7489eeb4d49a);
+                            ">
+<g style="
+                                mask: url(#524812d9-3504-4191-892c-5d61e7253b46);
+                              ">
+<polygon points="68.19 108.62 88.92 80.32 58.89 62.77 38.16 91.06 68.19 108.62" style="
+                                  fill: url(#348de960-920e-41ca-981e-541f55d7ef21);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#70e3d2ae-d14b-477f-a62c-4cacd3a3024b);
+                          ">
+<g style="
+                              clip-path: url(#e0207633-2f11-4460-b0bc-b0fd3392dd23);
+                            ">
+<polygon points="133.79 55.14 118.97 20.31 89.45 36.65 104.26 71.48 133.79 55.14" style="
+                                fill: url(#de650e4a-0f26-42c0-b5b6-2d49528d8913);
+                              "></polygon>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#94de31bf-f093-4284-a8b3-241ca255e7c7);
+                          ">
+<g style="
+                              clip-path: url(#14043cb0-2b72-49b9-ac01-6a72468dc107);
+                            ">
+<polygon points="44.95 22.52 65.62 50.73 35.65 68.25 14.98 40.04 44.95 22.52" style="
+                                fill: url(#90d54a19-ea88-4787-a8e8-8a01501b82cb);
+                              "></polygon>
+</g>
+</g>
+ </g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#77d0c855-8c62-4e88-9077-ba0c65edc104);
+                          ">
+<g style="
+                              clip-path: url(#93971225-0416-4b2a-9ba2-2555cf832d34);
+                            ">
+<g style="
+                                mask: url(#1540e2b8-7941-4cee-a567-dfbeb834e267);
+                              ">
+<polygon points="44.95 68.38 65.68 40.08 35.65 22.52 14.92 50.82 44.95 68.38" style="
+                                  fill: url(#a8130815-f60d-42f7-9492-4722cc80cd01);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#6aa77173-2816-4557-a6f0-d53c4d732601);
+                          ">
+<g style="
+                              clip-path: url(#b655877f-c89d-49cb-a03c-1c2669771a30);
+                            ">
+<g style="
+                                mask: url(#d86d0554-017e-4ed2-a05d-1e08663b7ed7);
+                              ">
+<polygon points="68.19 81.79 88.92 53.49 58.89 35.94 38.16 64.23 68.19 81.79" style="
+                                  fill: url(#86ad0f58-7977-48f2-9afe-1be62668b0ed);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#60ea5dc5-0570-40bc-9d12-e5054fd4c97e);
+                          ">
+<g style="
+                              clip-path: url(#9a79146b-fc39-4583-bbd7-c0ef94f80d47);
+                            ">
+<g style="
+                                mask: url(#72990a52-880c-492a-b7ee-d37a03caaa1b);
+                              ">
+<polygon points="51.45 85.64 75.11 88.51 75.63 58.92 51.97 56.04 51.45 85.64" style="
+                                  fill: url(#b4e1fdd8-c9b0-4402-980e-dc99312a849e);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#5b92e200-0cd4-455a-a1ba-f938e8493ead);
+                          ">
+<g style="
+                              clip-path: url(#20842820-fe3d-4d37-8566-fedff15fd855);
+                            ">
+<g style="
+                                mask: url(#d1256fe5-7d59-49fc-9c82-67a7ec79c934);
+                              ">
+<polygon points="18.98 64.6 33.65 96.5 61.62 79.95 46.95 48.06 18.98 64.6" style="
+                                  fill: url(#1dfee7ab-0826-41c4-b908-94ef19bb39f9);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#5db659db-a88e-46b1-a19c-713b61e11d68);
+                          ">
+<g style="
+                              clip-path: url(#f53a4673-bfcf-499f-8037-9556d256069a);
+                            ">
+<g style="
+                                mask: url(#c21c3443-c041-432a-89aa-8392f845ce7e);
+                              ">
+<polygon points="26.61 71.9 51.59 76.48 54 45.83 29.01 41.24 26.61 71.9" style="
+                                  fill: url(#b1d24906-e615-44aa-8cb4-8b6b33b08d27);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#b54f859a-08c6-4740-bf0e-e0c654b186d8);
+                          ">
+<g style="
+                              clip-path: url(#a3ce73db-aa1a-4c9b-9285-cfa1f3fe6fbf);
+                            ">
+<g style="
+                                mask: url(#d92e1e77-e7e5-4fe3-9474-75ad07833afe);
+                              ">
+<polygon points="65.57 91.27 79.98 123.23 107.97 106.95 93.56 74.99 65.57 91.27" style="
+                                  fill: url(#35952f31-40c3-4cca-b441-208ba190106c);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#fd409aaa-f989-42eb-81d5-9c24916f4267);
+                          ">
+<g style="
+                              clip-path: url(#d6a5ac5a-c16c-43a6-a389-7f834d4e7fcf);
+                            ">
+<g style="
+                                mask: url(#d83c5273-92b2-4b92-a6ce-057c9d57e002);
+                              ">
+<polygon points="65.55 64.47 80.01 96.42 108 80.08 93.54 48.13 65.55 64.47" style="
+                                  fill: url(#1f9eebd2-bb6e-48f7-a101-9ca77689f134);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<g style="
+                          opacity: 0.6999970078468323;
+                          mix-blend-mode: multiply;
+                        ">
+<g style="
+                            clip-path: url(#97875ba8-2ad4-455c-b65b-efdf518f424a);
+                          ">
+<g style="
+                              clip-path: url(#e1d7667a-5312-439c-adad-d0252f1fab15);
+                            ">
+<g style="
+                                mask: url(#7db3826f-aa32-41fc-9455-9e7e6c555ef5);
+                              ">
+<polygon points="72.42 98.53 97.89 103.89 101.13 72.85 75.65 67.5 72.42 98.53" style="
+                                  fill: url(#d06703f8-0e6e-4bac-a58d-6ca91a70e219);
+                                "></polygon>
+</g>
+</g>
+</g>
+</g>
+<polygon points="26.84 27.98 75.31 0 123.5 27.83 77.22 56.22 26.84 27.98" style="fill: url(#b55c1330-4f22-43db-831e-5c07147c800a)"></polygon>
+</g>
+</g>
+</svg>
